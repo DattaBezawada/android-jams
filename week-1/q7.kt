@@ -6,4 +6,4 @@ fun main(args: Array<String>){
        fact=fact*i
      }
      println("Factorial of given number $x is $fact")
-   }
+}
