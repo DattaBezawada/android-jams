@@ -5,7 +5,7 @@ fun main(args: Array<String>){
   var result=0
   var remainder:Int
   var n=0
-
+ 
   originalNum=number
 
   while (originalNum != 0) {
