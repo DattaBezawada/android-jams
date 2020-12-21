@@ -5,4 +5,4 @@ fun main(args: Array<String>){
     
     else->println("$x is not a alphabet")
     }   
-   }
+}
