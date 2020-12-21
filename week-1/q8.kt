@@ -19,4 +19,4 @@ fun main(args: Array<String>){
 
   fact=factx+facty+factz
   println("Sum of Factorials of given numbers $x,$y,$z are $fact")
-}
+} 
