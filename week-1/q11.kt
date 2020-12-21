@@ -12,7 +12,7 @@ fun main(args: Array<String>){
     result=result+Math.pow(remainder.toDouble(),3.0).toInt()
     originalNum=originalNum/10
   }
-
+ 
   if(result==number)
     println("Given number $number is a Amstrong number")
   else
