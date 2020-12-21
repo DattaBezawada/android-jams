@@ -1,4 +1,4 @@
-fun main(){
+fun main(){ 
     println("Enter a number")
     val a:Int=readLine()!!.toInt()
     if(a%5==0 && a%11==0){
