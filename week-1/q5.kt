@@ -14,5 +14,5 @@ fun main(){
     
     else{
         println("It is a Scalene triangle")
-    }
+    } 
    }
