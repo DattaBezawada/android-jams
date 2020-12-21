@@ -6,7 +6,7 @@ fun main(){
     if(a>b && a>c){
         println("$a is maximum")
     }
-    
+     
     else if(b>a && b>c){
         println("$b is maximum")
     }
