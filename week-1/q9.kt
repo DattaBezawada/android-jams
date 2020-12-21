@@ -6,6 +6,6 @@ fun main(args: Array<String>){
     if(i%2==0){
       sum=sum+i
     }
-    }
-    println("Sum of all even numbers till $n is $sum")
+  }
+  println("Sum of all even numbers till $n is $sum")
 }
